@@ -535,6 +535,9 @@ Run notebook: de_mini_project/03_gold/01__notebooks/nb_gold.ipynb
 
 # Step 5: Reporting Layer
 Run notebook: de_mini_project/03_gold/01__notebooks/nb_kpi.ipynb
+
+# Step 6: Datacube Layer
+Run notebook: de_mini_project/03_gold/01__notebooks/nb_datacube.ipynb
 ```
 
 ### 8.2 Automated Execution
@@ -582,6 +585,7 @@ Run notebook: de_mini_project/03_gold/01__notebooks/nb_kpi.ipynb
 | Metric | Count |
 |--------|-------|
 | **Total Tables** | 30 |
+| **Datacube Tables** | 2 |
 | **Bronze Tables** | 7 |
 | **Silver Tables** | 7 |
 | **Gold Tables** | 5 |
@@ -610,6 +614,7 @@ de_mini_project/
 └── 03_gold/
     └── 01__notebooks/
         ├── nb_gold.ipynb
+        ├── nb_datacube.ipynb
         └── nb_kpi.ipynb
 ```
 
